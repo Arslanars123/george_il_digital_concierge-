@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+var userID;
+var product = 'prodeuct';
+var english = false;
+List<Tab> tabTravel = [];
+List<ListView> bodyTravel = [];
+var italianproduct = 'italian product';
+var username;
+var useremail;
+var userphone ;
+var userimage;
+var hotelemail;
+var reserveCode;
